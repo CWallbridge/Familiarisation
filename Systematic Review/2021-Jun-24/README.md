@@ -1,0 +1,1 @@
+Here can be found the list of papers in Human-Robot Interaction that have robots interacting with autistic participants. The papers were identified from a search conducted on the 24th of June 2021, from the PubMed, Scopus and Web of Science databases.
