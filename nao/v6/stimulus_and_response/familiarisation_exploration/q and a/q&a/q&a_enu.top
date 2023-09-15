@@ -1,0 +1,16 @@
+topic: ~qs()
+language: enu
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello
+
+u:(a) What's your favorite color?
+u:(a) That's cool! What is your favorite subject in school?
+u:(a) Interesting! Do you have any brothers or sisters?
+u:(a) Cool! I have one brother and one sister.
